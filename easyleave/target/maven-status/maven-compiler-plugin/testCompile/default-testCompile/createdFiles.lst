@@ -1,0 +1,9 @@
+com\easyleave\EasyAdminLoginTest.class
+com\easyleave\EasyLoginTest.class
+com\easyleave\EasyRegisterTest.class
+com\easyleave\leaveidTest.class
+com\easyleave\EasyLeaveAppTest.class
+com\easyleave\EasyLeaveHistoryTest.class
+com\easyleave\EasyApprovalHistoryTest.class
+com\easyleave\EasyApprovalJspTest.class
+com\easyleave\DBConnectionTest.class
